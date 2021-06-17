@@ -1,0 +1,47 @@
+.project-blue{
+  color: #3c7ae6
+}
+.project-red{
+  color: #c41616
+}
+.w400{
+  font-weight: 500;
+}
+element:.style{
+  background-image: url(https://assets.bonappetit.com/photos/5dc16047f050a2000919fa57/16:9/w_2560%2Cc_limit/haitian-food-montreal-watermark.jpg");
+  width:37px;
+  Weight :130px;
+}
+.container {
+  position: relative;
+}
+.text-block{
+  position: relative ;
+  bottom: 98px;
+  right: 90px;
+  padding-left:95px;
+  padding-right: 99x;
+
+}
+.element.menu{
+  width:30%;
+  min-height:250px;
+  float:left;
+  margin;auto;
+}
+.padding.reservation:0;
+.margin.reservation:0;
+font-family:sans-serif;
+body.reservation{
+  background: black;
+  background-size:cover
+}
+.submit-form.reservation{
+  
+}
+button{
+  border: solid;
+  border-color: blue
+  background-color:bisque
+  text-color:#c41616
+}
